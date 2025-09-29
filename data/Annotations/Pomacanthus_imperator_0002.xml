@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pomacanthus_imperator_0002.jpg</filename>
+	<path>F:\new_model\yolov5-fish\data\images\Pomacanthus_imperator_0002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pomacanthus_imperator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>99</ymin>
+			<xmax>568</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

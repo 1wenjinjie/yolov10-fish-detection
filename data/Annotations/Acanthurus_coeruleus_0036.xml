@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Acanthurus_coeruleus_0036.jpg</filename>
+	<path>F:\jpgimg\Acanthurus_coeruleus_0036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acanthurus_coeruleus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>175</ymin>
+			<xmax>653</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

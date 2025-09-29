@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Carcharhinus_amblyrhynchos_0102.jpg</filename>
+	<path>F:\jpgimg\Carcharhinus_amblyrhynchos_0102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carcharhinus_amblyrhynchos</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>1</ymin>
+			<xmax>749</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

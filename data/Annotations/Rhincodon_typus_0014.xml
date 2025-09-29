@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Rhincodon_typus_0014.jpg</filename>
+	<path>F:\jpgimg\Rhincodon_typus_0014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2331</width>
+		<height>1074</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rhincodon_typusw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>213</ymin>
+			<xmax>2236</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+</annotation>

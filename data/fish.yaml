@@ -1,0 +1,13 @@
+train: data/train.txt
+val: data/val.txt
+test: data/test.txt
+test_xml: data/xml
+
+# Classes
+names: ['Acanthurus_coeruleus', 'Aluterus_scriptus', 'Carcharhinus_amblyrhynchos', 'Carcharodon_carcharias',
+        'Cephalopholis_fulvaw', 'Diodon_holocanthus', 'Pomacanthus_imperator', 'Pomacanthus_paru', 'Pterois_volitans',
+        'Rhincodon_typusw','Balistapus_undulatus','Balistoides_conspicillum','Chaetodon_capistratus',
+        'Chaetodon_auriga','Cephalopholis_miniata','Cheilinus_undulatus','Chelmon_rostratus','Diodon_hystrix',
+        'Forcipiger_flavissimus']
+# Classes Num
+nc: 19

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Diodon_holocanthus_0015.jpg</filename>
+	<path>F:\jpgimg\Diodon_holocanthus_0015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diodon_holocanthus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>51</ymin>
+			<xmax>526</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

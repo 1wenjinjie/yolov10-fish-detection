@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Pomacanthus_paru_0053.jpg</filename>
+	<path>F:\jpgimg\Pomacanthus_paru_0053.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pomacanthus_paru</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>104</ymin>
+			<xmax>550</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Cephalopholis_fulva_0057.jpg</filename>
+	<path>F:\jpgimg\Cephalopholis_fulva_0057.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>964</width>
+		<height>724</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cephalopholis_fulvaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>186</ymin>
+			<xmax>930</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

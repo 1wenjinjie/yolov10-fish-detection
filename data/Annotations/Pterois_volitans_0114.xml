@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Pterois_volitans_0114.jpg</filename>
+	<path>F:\jpgimg\Pterois_volitans_0114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pterois_volitans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>88</ymin>
+			<xmax>459</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

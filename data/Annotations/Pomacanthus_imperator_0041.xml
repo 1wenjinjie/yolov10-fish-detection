@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Pomacanthus_imperator_0041.jpg</filename>
+	<path>F:\jpgimg\Pomacanthus_imperator_0041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pomacanthus_imperator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>122</ymin>
+			<xmax>413</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

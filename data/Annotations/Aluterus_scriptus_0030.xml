@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Aluterus_scriptus_0030.jpg</filename>
+	<path>F:\jpgimg\Aluterus_scriptus_0030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aluterus_scriptus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>82</ymin>
+			<xmax>620</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

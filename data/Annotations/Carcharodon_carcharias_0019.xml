@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpgimg</folder>
+	<filename>Carcharodon_carcharias_0019.jpg</filename>
+	<path>F:\jpgimg\Carcharodon_carcharias_0019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carcharodon_carcharias</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>150</ymin>
+			<xmax>277</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
